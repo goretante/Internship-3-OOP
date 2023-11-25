@@ -1,0 +1,14 @@
+C:\Users\Krešo\Desktop\Ante\dump\domaci 3\Internship-3-OOP\Phone Book app\Phone Book app\bin\Debug\net6.0\Phone Book app.exe
+C:\Users\Krešo\Desktop\Ante\dump\domaci 3\Internship-3-OOP\Phone Book app\Phone Book app\bin\Debug\net6.0\Phone Book app.deps.json
+C:\Users\Krešo\Desktop\Ante\dump\domaci 3\Internship-3-OOP\Phone Book app\Phone Book app\bin\Debug\net6.0\Phone Book app.runtimeconfig.json
+C:\Users\Krešo\Desktop\Ante\dump\domaci 3\Internship-3-OOP\Phone Book app\Phone Book app\bin\Debug\net6.0\Phone Book app.dll
+C:\Users\Krešo\Desktop\Ante\dump\domaci 3\Internship-3-OOP\Phone Book app\Phone Book app\bin\Debug\net6.0\Phone Book app.pdb
+C:\Users\Krešo\Desktop\Ante\dump\domaci 3\Internship-3-OOP\Phone Book app\Phone Book app\obj\Debug\net6.0\Phone Book app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krešo\Desktop\Ante\dump\domaci 3\Internship-3-OOP\Phone Book app\Phone Book app\obj\Debug\net6.0\Phone Book app.AssemblyInfoInputs.cache
+C:\Users\Krešo\Desktop\Ante\dump\domaci 3\Internship-3-OOP\Phone Book app\Phone Book app\obj\Debug\net6.0\Phone Book app.AssemblyInfo.cs
+C:\Users\Krešo\Desktop\Ante\dump\domaci 3\Internship-3-OOP\Phone Book app\Phone Book app\obj\Debug\net6.0\Phone Book app.csproj.CoreCompileInputs.cache
+C:\Users\Krešo\Desktop\Ante\dump\domaci 3\Internship-3-OOP\Phone Book app\Phone Book app\obj\Debug\net6.0\Phone Book app.dll
+C:\Users\Krešo\Desktop\Ante\dump\domaci 3\Internship-3-OOP\Phone Book app\Phone Book app\obj\Debug\net6.0\refint\Phone Book app.dll
+C:\Users\Krešo\Desktop\Ante\dump\domaci 3\Internship-3-OOP\Phone Book app\Phone Book app\obj\Debug\net6.0\Phone Book app.pdb
+C:\Users\Krešo\Desktop\Ante\dump\domaci 3\Internship-3-OOP\Phone Book app\Phone Book app\obj\Debug\net6.0\Phone Book app.genruntimeconfig.cache
+C:\Users\Krešo\Desktop\Ante\dump\domaci 3\Internship-3-OOP\Phone Book app\Phone Book app\obj\Debug\net6.0\ref\Phone Book app.dll

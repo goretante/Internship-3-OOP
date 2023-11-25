@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ante\\Desktop\\programiranje\\dump\\domaci 3\\Internship-3-OOP\\Phone Book app\\Phone Book app\\Phone Book app.csproj": {}
+    "C:\\Users\\Krešo\\Desktop\\Ante\\dump\\domaci 3\\Internship-3-OOP\\Phone Book app\\Phone Book app\\Phone Book app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ante\\Desktop\\programiranje\\dump\\domaci 3\\Internship-3-OOP\\Phone Book app\\Phone Book app\\Phone Book app.csproj": {
+    "C:\\Users\\Krešo\\Desktop\\Ante\\dump\\domaci 3\\Internship-3-OOP\\Phone Book app\\Phone Book app\\Phone Book app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ante\\Desktop\\programiranje\\dump\\domaci 3\\Internship-3-OOP\\Phone Book app\\Phone Book app\\Phone Book app.csproj",
+        "projectUniqueName": "C:\\Users\\Krešo\\Desktop\\Ante\\dump\\domaci 3\\Internship-3-OOP\\Phone Book app\\Phone Book app\\Phone Book app.csproj",
         "projectName": "Phone Book app",
-        "projectPath": "C:\\Users\\Ante\\Desktop\\programiranje\\dump\\domaci 3\\Internship-3-OOP\\Phone Book app\\Phone Book app\\Phone Book app.csproj",
-        "packagesPath": "C:\\Users\\Ante\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ante\\Desktop\\programiranje\\dump\\domaci 3\\Internship-3-OOP\\Phone Book app\\Phone Book app\\obj\\",
+        "projectPath": "C:\\Users\\Krešo\\Desktop\\Ante\\dump\\domaci 3\\Internship-3-OOP\\Phone Book app\\Phone Book app\\Phone Book app.csproj",
+        "packagesPath": "C:\\Users\\Krešo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Krešo\\Desktop\\Ante\\dump\\domaci 3\\Internship-3-OOP\\Phone Book app\\Phone Book app\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Krešo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
